@@ -28,7 +28,7 @@ Exploratory analysis of customer spending patterns and engagement using SQL and 
 - Visualization of average basket size per customer (planned)
 
 ### 🛠️ Tools & Technologies
-- SQL (SQLite via pandas.read_sql_query)
+- SQL (SQLite)
 - Python (pandas, matplotlib, seaborn)
 - Google Colab
 - Data wrangling, transformation, and visual storytelling
