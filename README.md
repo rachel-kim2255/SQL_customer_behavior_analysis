@@ -4,7 +4,7 @@ Exploratory analysis of customer spending patterns and engagement using SQL and 
 <br>
 
 📎 Rachel Kim  
-📅 Date: 2025.07 (In Progress, More insights and visualizations to be added. -2025.07.04)  
+📅 Date: 2025.07 (In Progress, More insights and visualizations to be added. -2025.09.29)  
 📚 Individual Project
 <br>
 
