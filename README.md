@@ -8,6 +8,10 @@ Comprehensive analysis of customer behavior and segmentation using SQL, Python, 
 📚 Individual Project
 <br>
 
+👉 **Tip:** For best experience, open this notebook in **Google Colab** and use the **Table of Contents panel (on the left)** to quickly navigate between sections.  
+[Colab Link](https://colab.research.google.com/drive/1m7jj_-TjM4LRgpsv4pqdmf0OqgmeHnRs?usp=sharing)
+
+
 ---
 
 ### 📂 Project Objective
